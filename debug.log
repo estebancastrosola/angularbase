@@ -1,0 +1,5 @@
+[0217/110057.688:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0217/110057.693:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0217/110058.568:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0217/110058.569:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0217/110058.569:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
